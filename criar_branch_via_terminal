@@ -1,0 +1,15 @@
+
+
+Além da opção Doougui, você pode usar comando no terminal:
+
+git checkout -b MinhaNovaBrach
+
+Depois, quando quiser subir a branch, faça os commits:
+
+git commit -m 'Comentário do commit da minha nova branch'
+
+Depois, subindo de fato:
+
+git push --set-upstream origin MinhaNovaBrach
+
+Recomendo ler esse guia: https://rogerdudler.github.io/git-guide/index.pt_BR.html
